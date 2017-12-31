@@ -1,0 +1,29 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+
+.top{
+	width: 100%;
+    background: #F5F5F5;
+    border-bottom: 1px solid #EEE;
+}
+.top-content{
+	width: 80%;
+	height: 50px;
+	line-height: 50px;
+	margin: 0 auto;
+}
+
+.link1{
+	color: red;
+	margin-right: 10px;
+}
+.link2{
+	margin-right: 40px;
+}
